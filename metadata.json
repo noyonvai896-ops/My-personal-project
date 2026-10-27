@@ -1,0 +1,11 @@
+{
+  "name": "NURA Ai",
+  "description": "NURA Ai personal voice assistant developed by Nafiz Fuad Noyon with Gemini AI, neural memory bank, and phone automation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
